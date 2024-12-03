@@ -6,7 +6,7 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: '78eba047-e63b-49df-a063-28e693d78764',
 
   // basic site info (required)
   name: 'Trip Pizza',
