@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Jiahao',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Enjoy a hot pizza during the trip.',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
